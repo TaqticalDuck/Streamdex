@@ -1,0 +1,24 @@
+
+
+1.) Start streamdex.exe 
+
+2.) click the button you want to modify 
+
+3.) then enter the location of your program
+
+4.) if you want to change any images change the corresponding image in the images folder 
+
+!!!WARNING!!!
+you HAVE to add ""around your input or it will NOT work
+
+do NOT change the location of the application you CAN change 
+
+the location of the whole folder or link to the application
+
+
+Tips 
+
+The programm can execute ANY file like macros and scripts
+
+
+
